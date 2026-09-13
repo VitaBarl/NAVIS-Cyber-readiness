@@ -1,0 +1,14 @@
+{
+  "name": "navis-cyber-readiness",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Simulatore locale di security awareness in contesto marittimo-militare.",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
